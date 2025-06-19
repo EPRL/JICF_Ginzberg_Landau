@@ -1,1 +1,1 @@
-# -JICF_Ginzberg_Landau
+# JICF_Ginzberg_Landau
